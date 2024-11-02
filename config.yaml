@@ -1,0 +1,5 @@
+general:
+  serial_dart: 'COM4' # /dev/ttyACM0 linux COM4 windows
+  baud_dart: 115200
+  serial_led: 'COM5' # /dev/ttyACm1 linux COM5 windows
+  baud_led: 115200
